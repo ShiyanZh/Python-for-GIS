@@ -1,2 +1,3 @@
 # Python-for-GIS
-I used python to create an interface with buttons, which can load shapefiles and calculate shortest path.
+Parse the structure of shapefiles.
+Created an interface by python which can load shapefiles and calculate shortest path.
