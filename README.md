@@ -1,3 +1,2 @@
 # Python-for-GIS
-Parse the structure of shapefiles.
-Created an interface by python which can load shapefiles and calculate shortest path.
+I used python to parse the structure of shapefiles and python's Tkinter to create an program with user interface, which can load and visualize shapefiles and calculate shortest path 
